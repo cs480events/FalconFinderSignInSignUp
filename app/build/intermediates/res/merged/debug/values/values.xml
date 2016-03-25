@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="calculator"><u>Tip Calculator</u></string>
+    <string name="go_button">Go</string>
+    <style name="buttonStyle">
+        <item name="android:layout_width">0.5in</item>
+        <item name="android:layout_height">0.3in</item>
+        android:layout_height="wrap_content"
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">2dip</item>
+    </style>
+</resources>
